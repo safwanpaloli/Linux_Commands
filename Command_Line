@@ -27,3 +27,5 @@ Options often begin with a dish or minux sign(like -e or -s)
 Option are often represented by one letter or number
 
 
+Arguments 
+Arguments tell the command what to operate on.
