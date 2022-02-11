@@ -1,0 +1,16 @@
+
+
+Spacing names
+spelling of command names matters
+misspelled commands usually will just fail
+mistyped options or arguments can cause unexpected outcomes or date loss
+
+solution
+double check the command before entering
+
+
+manual pages
+don't have to memorize  everything.
+The command man opens the manual pages.
+Manual pages are built-in-documents for commands.
+
