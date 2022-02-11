@@ -1,0 +1,12 @@
+What does the command stat myfile.txt do?
+ using man stat, we can discover that it will show file statistics for myfile.txt
+ Display file or file
+ 
+What does the command df -h / do?
+ report file system disk space usage. -h human-readable.
+ 
+What command would i use to files in a directory hierarchy?
+  Using apropos "search for files", we can see the find command
+ 
+which option would use with the ls command to output a comma-seperated list of files and directories?
+ Using man ls , find the -m option to show the output in a comma-sepearted list
