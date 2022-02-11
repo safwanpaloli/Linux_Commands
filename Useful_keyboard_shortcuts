@@ -1,0 +1,8 @@
+
+-> tab completion:
+  Automatically completes a file or folder name
+  Makes guesses based on the contents of the path
+  
+> ctrl+A move to beginning of line
+  ctrl+E move to last of line.
+  Ctrl+U Delete from cursor 
