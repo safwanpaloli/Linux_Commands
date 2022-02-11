@@ -1,0 +1,34 @@
+
+commands for file information
+
+file - determine file type 
+stat - file status
+
+File system Directories
+ Common configuration files: /etc
+ Common programs or commands: /bin, /sbin
+ shared libraries and modules: /lib
+ standard location for mounting other file systems: /mnt,/media
+ kernel and system information : /dev, /proc and /sys
+ 
+ 
+ Paths on linux
+ > A path represents the location of a file or directory
+ > Paths use the slash character / as a separator between directory or file names
+ > path can absolute or relatives
+ 
+ Absolute Path
+   > Begin from the root of the file system
+     Defines an explicit location on the file system
+        /home/user/Documents
+      A slash at the beginning indicates an absoluted path.
+   
+ Relative paths
+    Begin from the current working directory
+    if the current working directory changes, what the path refers to changes
+  
+ The name ".." refers to the parent directory of the current working dir.
+   
+ tilde expansion
+  The tilde character(~) refers to the current user's home dir.
+ 
