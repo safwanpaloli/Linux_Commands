@@ -1,0 +1,29 @@
+
+What is Bash?
+
+Bash is widely used shell or command-line-interpreter
+Bash was released in 1989 and is named Bourne Again SHell
+
+Using a Terminal
+
+A shell runs in a terminal
+
+
+General Command Syntax
+
+ls -h(option) usr/bin(arguments) 
+
+What are commands
+
+Commands are programs that are available on a system
+When we run a command, the system takes a specific action
+Many commands have short names in order to save typing.
+
+command names  can seem tricky at first(ls,du,cat,df,grep and so on)
+
+What are opetions
+Options tell a command how to operate.
+Options often begin with a dish or minux sign(like -e or -s)
+Option are often represented by one letter or number
+
+
