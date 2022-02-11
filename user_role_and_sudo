@@ -1,2 +1,12 @@
 
 
+Normal User
+
+can modify their own files
+cannot system wide changes
+
+Superuser(root)
+
+Can modify any files on the system
+can make system wide changes
+
